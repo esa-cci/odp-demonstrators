@@ -3,7 +3,7 @@
 This is a place to store demonstration material for how to use the following services/APIs:
 
 - CCI KE STAC Collections:
-  - STAC Browser: Navigable representation of the CCI STAC/OpenEO Collection.
+  - STAC Browser: Navigable representation of the CCI STAC/OpenEO Collection. See the STAC Tour Presentation/PDF for more information.
   - pystac client API: Programmatic access to all the latest versions of CCI datasets.
   - CEDA DataPoint: Additional notebooks on how to interface with CEDA's DataPoint module, to access cloud-optimised dataset products within the CCI STAC index (**Recommended!**)
 
